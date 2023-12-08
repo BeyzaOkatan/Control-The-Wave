@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: c901987eec69e994badc4c46550494b3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pngtreecolourful_cool_game_button_5994509_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 784
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb384292cf6a66c4b83e632fac74a6fb
+      internalID: -1227018506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreecolourful_cool_game_button_5994509_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 801
+        width: 269
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605ba10d6396dfe4a831260f5c14aa29
+      internalID: -91939409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreecolourful_cool_game_button_5994509_2
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 784
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dcc7d6bc728194eb7465412cf083c4
+      internalID: 23112904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreecolourful_cool_game_button_5994509_3
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 801
+        width: 269
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b70a52301e3914468da1fa5542771be
+      internalID: 1880540622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreecolourful_cool_game_button_5994509_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 613
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e69a6659e3d1547a713a64019ec46b
+      internalID: 2121863255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreecolourful_cool_game_button_5994509_5
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 628
+        width: 269
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828b7e01333590f46a7f5bd30b4f3232
+      internalID: -853472459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreecolourful_cool_game_button_5994509_6
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 613
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cfe84d3fda7504f97ce686bdf15bc0
+      internalID: -688450269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreecolourful_cool_game_button_5994509_7
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 628
+        width: 269
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece5621a7a246944aa5242fafd0889a4
+      internalID: -1451438828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreecolourful_cool_game_button_5994509_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 442
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0442ea61aaf9de4db0ef466c62c4a84
+      internalID: -1541927491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreecolourful_cool_game_button_5994509_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 456
+        width: 269
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d67e5626b80b140bd37a0d6ca2e780
+      internalID: 589704256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreecolourful_cool_game_button_5994509_10
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 442
+        width: 146
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353b023c3ecd624459b52d68553724a6
+      internalID: -145246904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreecolourful_cool_game_button_5994509_11
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 456
+        width: 269
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9add0c2b609dd2f4f8fbda95495330b1
+      internalID: -1441279732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreecolourful_cool_game_button_5994509_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 270
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb70fd2d3256f8f4cacf780efef08bc8
+      internalID: 207660268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreecolourful_cool_game_button_5994509_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 277
+        width: 269
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad190823e5937147bca9e5a648f1a6f
+      internalID: -8996236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreecolourful_cool_game_button_5994509_14
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 270
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cdc109ce4aece4782f1466de17479c
+      internalID: 1515420655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngtreecolourful_cool_game_button_5994509_15
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 277
+        width: 269
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60941021a23f2ba49b8a8c90e509f850
+      internalID: 190896151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d3642b054b0b56849995fe8103c7c236
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pngtreecolourful_cool_game_button_5994509_0: -1227018506
+      Pngtreecolourful_cool_game_button_5994509_1: -91939409
+      Pngtreecolourful_cool_game_button_5994509_10: -145246904
+      Pngtreecolourful_cool_game_button_5994509_11: -1441279732
+      Pngtreecolourful_cool_game_button_5994509_12: 207660268
+      Pngtreecolourful_cool_game_button_5994509_13: -8996236
+      Pngtreecolourful_cool_game_button_5994509_14: 1515420655
+      Pngtreecolourful_cool_game_button_5994509_15: 190896151
+      Pngtreecolourful_cool_game_button_5994509_2: 23112904
+      Pngtreecolourful_cool_game_button_5994509_3: 1880540622
+      Pngtreecolourful_cool_game_button_5994509_4: 2121863255
+      Pngtreecolourful_cool_game_button_5994509_5: -853472459
+      Pngtreecolourful_cool_game_button_5994509_6: -688450269
+      Pngtreecolourful_cool_game_button_5994509_7: -1451438828
+      Pngtreecolourful_cool_game_button_5994509_8: -1541927491
+      Pngtreecolourful_cool_game_button_5994509_9: 589704256
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
